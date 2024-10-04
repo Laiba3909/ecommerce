@@ -2,26 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
+body { 
+  
+  margin: 0 ;
+  overflow-x: hidden !important; 
+  background-image: url(https://media.istockphoto.com/id/1316043925/vector/print.jpg?s=612x612&w=0&k=20&c=JcV3VeVtwHTEYHAgO-aLJ2QT9oBBlGOYl_KbZls4w5A=) !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important; 
+   background-color: black ;
+   
+}  
