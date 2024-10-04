@@ -4,7 +4,7 @@ export default function Footer() {
         <p className="text-center">
           Copyright © 2024 Your Food Website. All rights reserved.
         </p>
-        <p className="text-center">"Cooking is love made visible."</p>
+        <p className="text-center">Cooking is love made visible</p>
       </footer>
     );
   }
