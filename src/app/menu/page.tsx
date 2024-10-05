@@ -23,7 +23,7 @@ export default function menu() {
   return (
     <main>
       <div>
-        <hr className="text-center w-96 border-amber-400 border-2 mx-[570px] mt-3" />
+        <hr className="text-center w-72 md:w-96 border-amber-400 border-2 mx-[30px] md:mx-[570px] mt-3" />
         <h1 className="font-mono text-amber-400 opacity-80 text-center text-9xl">
           Menu
         </h1>
