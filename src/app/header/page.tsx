@@ -20,7 +20,7 @@ export default function Header() {
   };
 
   return (
-    <header className="flex justify-between items-center p-4 bg-black text-white">
+    <header className="flex justify-between items-center p-4  bg-black text-white">
       <div className="flex-shrink-0">
         <Image
           className="-ml-5"
